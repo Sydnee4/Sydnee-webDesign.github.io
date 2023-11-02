@@ -1,0 +1,15 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+  <title>Birthday Party Invitations</title> 
+  <link rel="stylesheet" type="text/css" 
+href="style.css">
+</head> 
+<body> 
+<div class="invitation"> 
+  <h1>It's Party Time!</h1> 
+  <p> You're invited to celebrate Ariana's birthday!</p> 
+  <p>Date: December 12, 2023</p> 
+  <p>Time: 6:00pm</p> 
+  <p>Location: Dave & Busters</p> 
+  <p> Please RSVP
