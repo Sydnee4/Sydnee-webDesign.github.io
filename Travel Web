@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Website</title>
+  <style>
+    body {
+      font-family: palatino, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #142966;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #FFFF33;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    nav ul li {
+      display: inline;
+    }
+    
+    nav ul li a {
+      text-decoration: none;
+      color: #333;
+      padding: 10px 20px;
+    }
+    
+    section {
+      margin: 20px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Travel Website</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Destinations</a></li>
+      <li><a href="#">Flights</a></li>
+      <li><a href="#">Hotels</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <section>
+    <h2>Explore the World</h2>
+    <p>Book your next adventure, discover new places, and LIVE your life to the fullest.</p>
+  </section>
+  
+  <footer>
+    <p>&copy; 2023 Travel Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>Y
