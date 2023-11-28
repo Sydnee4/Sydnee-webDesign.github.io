@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Animal Blog</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #F07857;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #253342;
+    }
+
+    h2 {
+      color: #253342;
+    }
+
+    p {
+      color: #FFFFFF;
+    }
+
+    ul, ol {
+      color: #CBD6E2;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Dog Blog!</h1>
+  <h2>Page 1: Fun Facts about Dogs</h2>
+  <p>Here are some interesting facts about dogs:</p>
+  <ul>
+    <li>Dogs are descendants of wolves.</li>
+    <li>They have an incredible sense of smell.</li>
+    <li>Dogs come in a wide variety of breeds, each with its own unique characteristics.</li>
+    <li>They are known for their loyalty and companionship.</li>
+  </ul>
+
+  <h2>Page 2: Caring for Your Dog</h2>
+  <p>Here are some tips for taking care of your furry friend:</p>
+  <ol>
+    <li>Provide a balanced and nutritious diet.</li>
+    <li>Make sure your dog gets regular exercise.</li>
+    <li>Groom your dog regularly, including brushing their fur and trimming their nails.</li>
+    <li>Train and socialize your dog to ensure good behavior.</li>
+    <li>Don't forget about regular visits to the veterinarian for check-ups and vaccinations.</li>
+  </ol>
+
+</body>
+</html>
